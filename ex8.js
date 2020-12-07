@@ -10,7 +10,9 @@
 let veces = 5
 let i = 0
 
-while (i<=veces) {
+//Para que lo escriba 5 veces exactas, tenemos que eliminar el = de la condición
+
+while (i<veces) {
     console.log("Ejecuto!")
     i++
 }
