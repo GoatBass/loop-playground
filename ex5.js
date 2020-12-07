@@ -8,7 +8,9 @@
  * Reestricción: SOLO puedes cambiar el valor de la variable 'veces' para conseguirlo
  */
 
- let veces = 5;
+//No se ejecuta porque la condición no se cumple, para modificarlo podemos cambiar el valor de veces a 15, y así el programa se ejecutaría 10 veces
+
+ let veces = 15;
 
  for (let i=5; i<veces; i++) {
      console.log("No me voy a ejecutar...")
