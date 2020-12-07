@@ -18,5 +18,9 @@
 
 for (var i=0;i<10;i++) {
     // aquí tu código
-    console.log(`Estoy en la iteración ${i + 1}`)
+    //Desde 0
+    console.log(`Estoy en la iteración ${i}`)
+    //Desde 1
+    // console.log(`Estoy en la iteración ${i + 1}`)
+
 }
